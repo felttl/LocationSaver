@@ -16,8 +16,7 @@ with a specific structure [see section here](#structure-des-fichiers---files-str
 # structure des fichiers - files structure
 
 ```json
-{
-  date: "datesStampHere",
+{ date: "datesStampHere",
   id: UDouble,
   etc...
 }
