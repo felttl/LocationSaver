@@ -1,5 +1,7 @@
 # LocationSaver App
 
+v_1.0.0.0
+
 > - only android devices 
 > - android 8 and above supported (may updated later (now: 2024/9/26))
 > - default saver interval : 1 minute (can be edited)
@@ -10,7 +12,10 @@ auto save locations (from internet or your device clock (warning: have to be syn
 
 # pourquoi cette app - why this app ?
 
-- very usefull for police when crimes are
+- track your own position by phone or other divices without losing informations to third party
+- see where your child was if parent mode activated (send objects to your phone are coded in later versions)
+a kind of weird usage :
+- very usefull for police when a crimes has been commited, it's a "alibi" 
 
 # utilisation des données - Data usage
 
