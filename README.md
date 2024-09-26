@@ -10,7 +10,7 @@ with a specific structure [see section here](#filestructure)
 
 # structure des fichiers - files structure
 
-```json
+```js
 {
   date: "datestamHere",
   id: int,
