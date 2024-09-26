@@ -1,9 +1,9 @@
 # LocationSaver App
 
-- only android devices 
-- android 8 and above supported (may updated later (now: 2024/9/26))
-- default saver interval : 1 minute (can be edited)
-- 
+> - only android devices 
+> - android 8 and above supported (may updated later (now: 2024/9/26))
+> - default saver interval : 1 minute (can be edited)
+> - 
 
 auto save locations (from internet or your device clock (warning: have to be sync once a day for offset prevention)) with your own interval and your specific network conditions 
 (such as your private network or public network or 4G even 5G with conditions from your handmade)
